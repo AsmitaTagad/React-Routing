@@ -1,0 +1,19 @@
+.cont {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px 20px;
+  background-color: rgb(206, 226, 226);
+  box-shadow: 0 5px 15px rgb(138, 162, 163);
+  margin: 10px;
+  padding: 10px;
+}
+
+.left li{
+  
+  display: inline;
+  align-items: center;
+  justify-content: space-between;
+  margin: 45px;
+
+}
